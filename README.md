@@ -6,7 +6,7 @@ We will be pushing new starter code for each homework. When you create
 the new repository execute the following command:
 
 ```bash
-git remote set-url starter git@github.com:CMSC-14300-Summer-2025/starter
+git remote set-url upstream git@github.com:CMSC-14300-Summer-2025/starter.git
 ```
 
 The deadline and description for each homework is listed below. Deadline for
