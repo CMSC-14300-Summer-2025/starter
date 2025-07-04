@@ -1,0 +1,100 @@
+11381923	2	-3	P	Anthropology	Corpus Christi
+16834093	2	-4	C	Germanic Studies	Fort Worth
+19982984	1	3	D+	Comparative Human Development	Stamford
+19386125	1	4	B-	Astronomy and Astrophysics	Marysville
+11314310	2	-5	C	Digital Studies of Language, Culture, and History	South Lyon
+19332226	0	-4	C-	Romance Languages and Literatures	Wilmington
+19539347	2	-3	C	Geographic Information Science	Warren
+12775052	1	0	D	East Asian Languages and Civilizations	Kenosha
+12856100	0	2	C+	Architectural Studies	Round Lake Beach
+18765853	1	1	C	Visual Arts	Mesa
+10975825	1	-4	C+	Chicago Studies	Birmingham
+14195924	2	-2	F	Neuroscience	Killeen
+14830187	0	3	P	Computer Science	Sarasota
+12180475	2	1	A-	Neuroscience	Appleton
+12350971	1	-3	B+	Neuroscience	Hemet
+18922742	0	-1	C+	Law, Letters, and Society	Bethlehem
+10598859	0	-5	B-	East Asian Languages and Civilizations	Kaneohe
+10712544	2	-5	D+	Institute for the Formation of Knowledge	Hesperia
+17551269	2	0	A	Issues and Texts	Jersey City
+16254733	2	-1	F	Architectural Studies	Toledo
+16833465	0	3	P	Law, Letters, and Society	Jacksonville
+13074787	0	-1	C	History, Philosophy, and Social Studies of Science and Medicine	Santa Barbara
+10023424	1	4	B-	English Language and Literature	St. Petersburg
+16093269	0	2	A-	Visual Arts	Vallejo
+13336815	1	-4	C-	Astronomy and Astrophysics	Simi Valley
+14166105	2	4	C	Public Policy Studies	Hollywood
+18803957	2	-4	C-	Religious Studies	Kalamazoo
+13507186	2	2	B+	Psychology	Boise City
+18774028	2	-5	B+	Biological Sciences	Concord
+11735541	0	3	C+	Mathematics	GreenBay
+13293500	0	-1	D+	Sociology	Portland
+12079214	1	3	B-	Comparative Human Development	Rockford
+17814591	2	0	A-	History	Port Orange
+12797646	1	-2	P	Professional Option: Medicine	Fontana
+11766992	2	1	A-	Romance Languages and Literatures	Rockford
+11710680	0	4	C+	Inquiry and Research in the Humanities	Jersey City
+15148038	1	2	F	Economics	Richmond
+17206807	0	-4	C-	Environmental and Urban Studies	Modesto
+19115331	2	-1	P	Issues and Texts	Flint
+17903004	2	2	A-	Chemistry	North Charleston
+19311424	2	4	C+	Chicago Studies	Saint Paul
+10888588	1	-1	D+	English Language and Literature	Lancaster
+15470276	2	-1	A	Sociology	Fort Smith
+16224384	2	-3	B+	Chemistry	Aberdeen
+15123996	2	2	D+	Political Science	Jacksonville
+10440952	1	2	D+	Big Problems	St. Petersburg
+17518327	0	-4	A	Psychology	Cleveland
+15461687	0	-2	C	Renaissance Studies	Long Beach
+15157629	2	-5	A	Anthropology	Lincoln
+14691908	1	-4	A-	Professional Option: Medicine	Tampa
+13961392	0	-1	C+	Neuroscience	Lake Charles
+19991990	2	-3	B	Inquiry and Research in the Humanities	Long Beach
+17798041	2	-1	C+	Digital Studies of Language, Culture, and History	Monroe
+17391882	1	1	C-	Law, Letters, and Society	Bel Air
+12588785	1	1	D	Comparative Human Development	Olathe
+14320183	2	4	A-	Art History	North Port
+11514078	1	4	B	Law, Letters, and Society	Deltona
+18481812	2	4	D	Computational Neuroscience	Normal
+17322135	1	-3	F	Computer Science	Boston
+15630843	1	-1	A-	East Asian Languages and Civilizations	Oakland
+13416952	1	3	C	Media Arts and Design	Atlanta
+16783405	0	-2	C	Norwegian Studies	Vancouver
+12289775	1	4	C-	Cinema and Media Studies	Boise City
+11272619	1	-2	F	Norwegian Studies	Greenville
+16901649	1	-1	B-	Mathematics	Kennewick
+15161411	1	-1	D+	Theater and Performance Studies	Howell
+13407023	2	-4	B+	Theater and Performance Studies	Kaneohe
+18061898	1	3	C-	Biological Sciences	Victorville
+13332194	2	-3	C+	Gender and Sexuality Studies	Portsmouth
+16748457	1	2	C	South Asian Languages and Civilizations	Killeen
+13579856	0	4	B+	Visual Arts	Overland Park
+19691072	0	4	B+	Computational and Applied Mathematics	El Paso
+12180195	0	-2	B-	Geographic Information Science	Fargo
+12881445	2	0	D+	Environmental and Urban Studies	Phoenix
+18961889	2	3	A-	Institute for the Formation of Knowledge	Mission Viejo
+14952148	2	4	A	Norwegian Studies	Grayslake
+18499427	2	4	D+	Jewish Studies	Monroe
+10677404	2	-1	D	Linguistics	Vallejo
+17514703	0	-5	C+	Psychology	Tyler
+18519930	2	4	A-	Comparative Human Development	Melbourne
+17919772	1	4	C+	Economics	Flint
+15795288	2	-3	F	Creative Writing	Rochester
+10725975	0	2	A	Creative Writing	Berkeley
+19140487	1	-3	A-	Global Studies	Canton
+16106517	0	2	C-	Physics	Evansville
+17898599	0	3	P	English Language and Literature	Glendale
+13478499	0	-1	C	Gender and Sexuality Studies	Lancaster
+14236674	0	1	C+	Clinical and Translational Science	Santa Clarita
+14191343	1	2	C-	Professional Option: Medicine	Bremerton
+17253235	0	1	P	Race, Diaspora, and Indigeneity	Virginia Beach
+17911923	1	2	P	Statistics	Gilbert
+12874336	2	-2	C+	Renaissance Studies	San Buenaventura
+10749748	2	-4	C	Philosophy	Myrtle Beach
+13727358	0	3	D	Visual Arts	El Monte
+12051861	2	-5	D	Astronomy and Astrophysics	Cleveland
+11402156	1	4	F	Public Policy Studies	Garland
+18304731	1	3	D	Theater and Performance Studies	Phoenix
+13370866	0	-3	A-	Inquiry and Research in the Humanities	Lakewood
+10808946	2	-4	P	Geographic Information Science	Temecula
+12487030	1	-2	D	Public Policy Studies	Orange

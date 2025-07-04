@@ -1,0 +1,10 @@
+14281918	1	2	D+	Public Policy Studies	Inglewood
+16654915	1	-3	B	Biological Chemistry	Palm Bay
+12004282	2	-1	B+	Renaissance Studies	Orlando
+17769868	0	-3	D+	Sociology	Thornton
+19119482	1	-1	C	Statistics	Virginia Beach
+16028665	2	2	B+	Environmental and Urban Studies	Santa Rosa
+18113740	0	-3	B+	Economics	New York
+12241757	0	-3	F	Music	Sioux Falls
+15364256	2	4	A	History, Philosophy, and Social Studies of Science and Medicine	Torrance
+13573775	0	-5	C+	Latin American and Caribbean Studies	Mesquite
