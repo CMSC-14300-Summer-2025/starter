@@ -1,5 +1,5 @@
 CC      = clang
-CFLAGS  += -gdwarf-4 -Wall -Wextra -pedantic -std=c23 -O2
+CFLAGS  += -gdwarf-4 -Wall -Wextra -pedantic -std=c2x -O2
 LDFLAGS += -gdwarf-4 -O2 -std=c11
 
 all: groups map-test
